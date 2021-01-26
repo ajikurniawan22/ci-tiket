@@ -55,12 +55,12 @@
 			<div class="container">
 				<div class="row fullscreen d-flex align-items-center justify-content-end">
 					<div class="banner-content col-lg-7 col-md-12">
-						<h4  class="combined">Jaminan Tiket Resmi</h4>
-							<h2 class="combined" >
-						Tiket XTRANS dijamin resmi, pastikan Anda bisa pergi!				
+							<h2 style="color:#fff !important;">
+							Booking Tiket Murah Online dengan Harga Promo				
 							</h2>
-						<p class="border-black" >
-							Sekarang cari tiket bus semakin mudah, bisa pesan online di Tiket XTRANS. Tak perlu repot ke terminal atau kantor agen, sekarang Anda bisa beli tiket dengan mudah. Booking Cepat dan Mudah. Bebas Pilih Kursi. Termurah Setiap Hari. Customer Service 24/7. Semua Kelas dan Rute.
+						<p style="color:#fff !important;">
+							Sekarang cari tiket bus semakin mudah, bisa pesan online di Tiket AJiTRANS. Tak perlu repot ke terminal atau kantor agen, sekarang Anda bisa beli tiket dengan mudah. Booking Cepat dan Mudah. Bebas Pilih Kursi. Termurah Setiap Hari. Customer Service 24/7. Semua Kelas dan Rute.
+							(Di Kerjakan untuk memenuhi Tugas UAS mata kuliah Pemrograman Web)
 						</p>
 						<a href="<?php echo base_url() ?>tiket" class="primary-btn header-btn text-uppercase">Cari Tiket</a>
 					</div>

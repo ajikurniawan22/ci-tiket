@@ -5,7 +5,7 @@
 							<div class="single-footer-widget">
 								<h4 class="text-white">Tiket BUS</h4>
 								<p>
-									Tiket BUS adalah jasa pemesanan tiket bis secara online terbesar di dunia. Telah dipercaya lebih dari 8 juta pelanggan secara global. redBus menawarkan pemesanan tiket bis melalui website, iOS dan aplikasi android untuk rute-rute utama di Singapura, Malaysia, dan Indonesia.
+									Di Kerjakan untuk memenuhi Ujian Akhir Semester mata kuliah Pemrograman Web
 								</p>
 							</div>
 						</div>
